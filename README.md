@@ -1,9 +1,15 @@
 ## Olá! Eu sou o Luiz Fernando
 
+<div>
+  <a href="https://github.com/luiiizfernando">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiiizfernando&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiiizfernando&layout=compact&langs_count=168&theme=dark"/>
+</div>
+
+
 <a href="https://www.linkedin.com/in/luiz-fernando-de-souza-87b07b124/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 <a href="mailto:luizfs138@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
